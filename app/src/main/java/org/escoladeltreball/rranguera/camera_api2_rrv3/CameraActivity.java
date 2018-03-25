@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.camera2basic;
+package org.escoladeltreball.rranguera.camera_api2_rrv3;
 
 import android.app.Activity;
 import android.os.Bundle;
